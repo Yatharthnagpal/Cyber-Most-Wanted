@@ -15,8 +15,8 @@ This project automates the collection of publicly listed cybercrime suspects fro
   - Nationality, Race, Sex, etc.
 - 💾 Saves to CSV (`cyberwanted_profile.csv`) immediately after each entry
 - 🗂 Avoids duplication and supports resume on rerun
-- 🌐 Opens a new browser tab for each link for better CAPTCHA handling
-- 🕓 Randomized wait times to simulate human browsing
+- 🌐 CAPTCHA handling
+- 🕓 simulate human browsing
 
 ---
 
